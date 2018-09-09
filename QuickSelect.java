@@ -53,7 +53,7 @@ public class QuickSelect {
 				i = pivotPosition + 1;
 			}
 		}
-		return Integer.MAX_VALUE;
+		return Integer.MAX_VALUE; 
 	}
 
     public static void quickSort(Comparable [] data) {
